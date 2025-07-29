@@ -2,7 +2,7 @@
 
 📄 **Overview**
 
-This repository hosts a research-driven analysis of how **Artificial Intelligence (AI)** is transforming the field of **cybersecurity**, particularly in the areas of **threat detection**, **anomaly detection**, and **automated response mechanisms**. The paper explores and compares the application of **Machine Learning (ML)**, Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Reinforcement Learning (RL)** in real-world cybersecurity systems.
+This repository hosts a research-driven analysis of how **Artificial Intelligence (AI)** is transforming the field of **cybersecurity**, particularly in the areas of **threat detection**, **anomaly detection**, and **automated response mechanisms**. The paper explores and compares the application of **Machine Learning (ML)**, Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Reinforcement Learning (RL)** in real world cybersecurity systems.
 
  🧠 Goal: To showcase how AI techniques improve detection accuracy, reduce response time, and create more resilient cyber defense strategies.
 
